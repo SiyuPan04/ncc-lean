@@ -1,0 +1,9 @@
+.lake/
+tmp/
+lake-manifest.local.json
+*.log
+.DS_Store
+.env
+.env.*
+*.pem
+*.key

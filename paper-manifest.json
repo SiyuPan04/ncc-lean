@@ -1,0 +1,19 @@
+{
+  "source": "main.tex",
+  "sha256": "5E18D87B1636334EB8497027F97BD7FDF74CB985D005D95F6DB4280D25281872",
+  "baselineDate": "2026-09-12",
+  "mainResultsStatus": "verified",
+  "lastAuditDate": "2026-09-12",
+  "auditedNCCTheorems": 2192,
+  "auditedNCCDefinitions": 519,
+  "auditedNCCSourceFiles": 102,
+  "buildJobs": 8891,
+  "sourceMinimaxConvention": "positive dimensions; NCC.Complexity.PositiveDimension",
+  "allowedAxioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "leanVersion": "4.32.0",
+  "mathlibCommit": "11d11a11a667a8fa8ea19d9456fe059f683e308f"
+}
